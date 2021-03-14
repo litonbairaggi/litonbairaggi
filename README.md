@@ -10,7 +10,7 @@ same time.
 
 ### Frameworks
 - Laravel, Symphony, CodeIgniter
-- 
+
 ### Frontend
 - ReactJS, Redux, AntDesign, VueJS, Vuex, Vuetify
 - Vanilla, jQuery, Bootstrap, Semantic UI, Tailwind CSS

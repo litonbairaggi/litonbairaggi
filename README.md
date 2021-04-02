@@ -9,7 +9,7 @@ same time.
 ## Technical Skills & Competences
 
 ### Frameworks
-- Laravel, Symphony, CodeIgniter
+- Django, Laravel, Symphony, CodeIgniter
 
 ### Frontend
 - ReactJS, Redux, AntDesign, VueJS, Vuex, Vuetify

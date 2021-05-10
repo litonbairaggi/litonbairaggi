@@ -2,7 +2,7 @@
 
 1.4+ years of experience as PHP Programmer includes Excellent experience in Developing Web
 Applications, web sites, ecommerce projects using PHP. Good work ethics with excellent
-communication and interpersonal skills. Capable to delve into the new leading Technologies. Ability to
+communication and interpersonal skills. Capable to delvelop into the new leading Technologies. Ability to
 work well in both a team environment and individual. Experience for Handling Multiple projects at a
 same time.
 

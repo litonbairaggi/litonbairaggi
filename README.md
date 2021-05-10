@@ -18,12 +18,8 @@ same time.
 ### Database
 - PostgreSQL, MySQL
 
-### Cloud
-- Setting up cloud, VPS
-- GCP, AWS, Digitalocean, Linode
-- Apache2, Nginx
 
 
 
-![litonbairaggi github stats](https://github-readme-stats.vercel.app/api?username=romeshshil&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romeshshil&layout=compact)
+![litonbairaggi github stats](https://github-readme-stats.vercel.app/api?username=litonbairaggi&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbairaggi&layout=compact)
